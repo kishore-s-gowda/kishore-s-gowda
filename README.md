@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kishoresshankar@gmail.com
 
 
-These are some of the projects that i have done for academic puropse, self learning and passion for Data Science
+These are some of the projects that I have done for academic puropse, self learning and passion for Data Science.
 
 ## Contents
 
 - ### Open Source Projects
-  - [Fast Report](https://github.com/kishore-s-gowda/fastreport)
+  - [Fast Report](https://github.com/kishore-s-gowda/fastreport): Fast Report is my first contribution towards open source projects. Using this package the performance of different algorithms like Random Forest, Xgboost, Logistic Regression etc. on our data can be obtained with the help of single line of code. The package is built mainly using Sklearn library.The package can be downloaded from [here](https://pypi.org/project/fastreport/)
 
 - ### Machine Learning Projects
 
