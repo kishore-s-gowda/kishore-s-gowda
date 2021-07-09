@@ -17,7 +17,7 @@ These are some of the projects that i have done for academic puropse, self learn
 ## Contents
 
 - ### Open Source Projects
-  - [Fast Report](https://github.com/kishore-s-gowda/fastreport
+  - [Fast Report](https://github.com/kishore-s-gowda/fastreport)
 
 - ### Machine Learning Projects
 
